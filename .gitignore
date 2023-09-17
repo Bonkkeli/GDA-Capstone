@@ -2,3 +2,6 @@
 *.pdf
 *.csv
 *.zip
+!README.md
+!dailyActivity_merged.csv
+!sleepDay_merged.csv
